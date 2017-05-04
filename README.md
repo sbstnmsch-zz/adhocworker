@@ -1,4 +1,6 @@
 # adhocworker
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sbstnmsch/adhocworker.svg)](https://greenkeeper.io/)
 Create web workers on the fly and inline
 
 This is a cross-browser inline-webworker to execute long running or
